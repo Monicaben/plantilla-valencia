@@ -1,8 +1,6 @@
-h1 {background-color: orange;text-align: center; font-size: 30px;}
-
+h1 {background-color:orange;text-align: center; font-size: 30px;}
 h2.plantilla {color: yellow;font-size: 50px;text-align: center;font-weight: bold;}
 h2 {color: blue;font-size: 50px;}
-td {color: white; font-size: 40px;}
 img {width: 220px;}
 body.valencia {background-color: black;}
-p {background-color: orange;text-align: center; font-size: 50px; color: orange;}
+p.web {background-color: orange;text-align: center; font-size: 50px;}
